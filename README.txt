@@ -10,11 +10,7 @@ In de opleverset zijn de volgende bestanden te vinden:
 │   POevaluatie.pdf
 │   README.txt
 │
-├───Demo
-│   │   DemonstratieVideo.mp4
-│   │   link_demovideo.txt
-│   │
-│   └───Eindmarkt
+│───Eindmarkt
 │           flyer.png
 │
 ├───Handleidingen&Datasheets
